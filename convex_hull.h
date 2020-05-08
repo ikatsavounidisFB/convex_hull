@@ -1,4 +1,5 @@
 // Ioannis Katsavounidis, Feb. 2019
+// This code is available to anyone who wants to use it, for free
 #ifndef CONVEX_HULL_H
 #define CONVEX_HULL_H
 

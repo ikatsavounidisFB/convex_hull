@@ -1,4 +1,5 @@
 // Ioannis Katsavounidis, Feb. 2019
+// This code is available to anyone who wants to use it, for free
 #include "convex_hull.h"
 
 // Compares 2 (R,D) points in increasing order of bitrate
