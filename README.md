@@ -8,4 +8,4 @@ This code is available to anyone who wants to use it, for free
 
 Building:
 
-gcc -Wall -*.c -o convex_hull_test
+gcc -Wall *.c -o convex_hull_test
