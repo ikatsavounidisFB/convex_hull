@@ -20,8 +20,8 @@ int compar(const void *p1, const void *p2)
   return 0;
 }
 
-// Returns positive value if p1->p2->p3 has a clockwise turn
-// Negative value if p1->p2->p3 has a counter-clockwise turn
+// Returns positive value if p1->p2->p3 has a counter-clockwise turn
+// Negative value if p1->p2->p3 has a clockwise turn
 // 0 value if they are aligned
 double cross_product(RDpoint *p1, RDpoint *p2, RDpoint *p3)
 {
